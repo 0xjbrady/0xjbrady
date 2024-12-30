@@ -1,5 +1,7 @@
 John Brady
 
+currently a program manager @ L3Harris Technologies
+
 interests in AI/ML especially as it relates to sports, gambling, culture
 
 <!---
